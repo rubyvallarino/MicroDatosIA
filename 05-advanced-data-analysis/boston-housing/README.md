@@ -1,4 +1,4 @@
-# Boston Housing Price Prediction
+# Boston Housing Prices
 
 ## Descripción del Dataset
 
@@ -25,7 +25,7 @@ El dataset de Boston Housing contiene información sobre suburbios y pueblos del
 10. **PTRATIO**: Ratio alumno-profesor por ciudad
 11. **MEDV**: Valor mediano de viviendas ocupadas por propietarios en $1000s (variable objetivo)
 
-**Nota**: Las variables de entrada tienen una mezcla de unidades. Agredecimientos al Dr. Jason.
+**Nota**: Las variables de entrada tienen una mezcla de unidades.
 
 ## Estructura de Carpetas
 
@@ -52,3 +52,7 @@ boston-housing/
 3. **Visualización**:
    - Crear visualizaciones de la distribución de la variable objetivo
    - Comparar valores reales vs. predichos
+
+## Referencias
+
+- Agredecimientos al Dr. Jason.
